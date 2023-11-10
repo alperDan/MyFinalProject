@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/user/Projects/MyFinalProject/DataAccess/obj/Debug/net7.0/scopedcss/projectbundle/DataAccess.bundle.scp.css",
+      "PackagePath": "staticwebassets/DataAccess.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/user/Projects/MyFinalProject/DataAccess/wwwroot/background.png",
+      "PackagePath": "staticwebassets/background.png"
+    },
+    {
+      "Id": "/Users/user/Projects/MyFinalProject/DataAccess/wwwroot/exampleJsInterop.js",
+      "PackagePath": "staticwebassets/exampleJsInterop.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.DataAccess.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.DataAccess.props",
+      "PackagePath": "build\\DataAccess.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.DataAccess.props",
+      "PackagePath": "buildMultiTargeting\\DataAccess.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.DataAccess.props",
+      "PackagePath": "buildTransitive\\DataAccess.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

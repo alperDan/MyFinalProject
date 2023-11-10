@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "YMjqcKKhSg7EnhXpLUtbyqdp3LfFATTm/ecxMSCTIpw=",
+  "Source": "Entities",
+  "BasePath": "_content/Entities",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Entities/wwwroot",
+      "Source": "Entities",
+      "ContentRoot": "/Users/user/Projects/MyFinalProject/Entities/wwwroot/",
+      "BasePath": "_content/Entities",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/user/Projects/MyFinalProject/Entities/obj/Debug/net7.0/scopedcss/bundle/Entities.styles.css",
+      "SourceId": "Entities",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/user/Projects/MyFinalProject/Entities/obj/Debug/net7.0/scopedcss/bundle/",
+      "BasePath": "_content/Entities",
+      "RelativePath": "Entities.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/user/Projects/MyFinalProject/Entities/obj/Debug/net7.0/scopedcss/bundle/Entities.styles.css"
+    },
+    {
+      "Identity": "/Users/user/Projects/MyFinalProject/Entities/obj/Debug/net7.0/scopedcss/projectbundle/Entities.bundle.scp.css",
+      "SourceId": "Entities",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/user/Projects/MyFinalProject/Entities/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "BasePath": "_content/Entities",
+      "RelativePath": "Entities.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/user/Projects/MyFinalProject/Entities/obj/Debug/net7.0/scopedcss/projectbundle/Entities.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/user/Projects/MyFinalProject/Entities/wwwroot/background.png",
+      "SourceId": "Entities",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/user/Projects/MyFinalProject/Entities/wwwroot/",
+      "BasePath": "_content/Entities",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/background.png"
+    },
+    {
+      "Identity": "/Users/user/Projects/MyFinalProject/Entities/wwwroot/exampleJsInterop.js",
+      "SourceId": "Entities",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/user/Projects/MyFinalProject/Entities/wwwroot/",
+      "BasePath": "_content/Entities",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/exampleJsInterop.js"
+    }
+  ]
+}

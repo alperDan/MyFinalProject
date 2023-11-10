@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/user/Projects/MyFinalProject/Entities/obj/Debug/net7.0/scopedcss/projectbundle/Entities.bundle.scp.css",
+      "PackagePath": "staticwebassets/Entities.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/user/Projects/MyFinalProject/Entities/wwwroot/background.png",
+      "PackagePath": "staticwebassets/background.png"
+    },
+    {
+      "Id": "/Users/user/Projects/MyFinalProject/Entities/wwwroot/exampleJsInterop.js",
+      "PackagePath": "staticwebassets/exampleJsInterop.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Entities.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Entities.props",
+      "PackagePath": "build\\Entities.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Entities.props",
+      "PackagePath": "buildMultiTargeting\\Entities.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Entities.props",
+      "PackagePath": "buildTransitive\\Entities.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

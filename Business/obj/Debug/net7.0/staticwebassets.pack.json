@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/user/Projects/MyFinalProject/Business/obj/Debug/net7.0/scopedcss/projectbundle/Business.bundle.scp.css",
+      "PackagePath": "staticwebassets/Business.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/user/Projects/MyFinalProject/Business/wwwroot/background.png",
+      "PackagePath": "staticwebassets/background.png"
+    },
+    {
+      "Id": "/Users/user/Projects/MyFinalProject/Business/wwwroot/exampleJsInterop.js",
+      "PackagePath": "staticwebassets/exampleJsInterop.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Business.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Business.props",
+      "PackagePath": "build\\Business.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Business.props",
+      "PackagePath": "buildMultiTargeting\\Business.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Business.props",
+      "PackagePath": "buildTransitive\\Business.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
