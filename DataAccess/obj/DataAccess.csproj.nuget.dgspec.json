@@ -46,6 +46,10 @@
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
               "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
             }
           },
           "imports": [
